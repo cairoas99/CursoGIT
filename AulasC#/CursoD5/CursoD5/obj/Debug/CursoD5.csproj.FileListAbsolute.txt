@@ -1,0 +1,7 @@
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD5\CursoD5\obj\Debug\CursoD5.csprojResolveAssemblyReference.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD5\CursoD5\obj\Debug\CursoD5.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD5\CursoD5\bin\Debug\CursoD5.exe.config
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD5\CursoD5\bin\Debug\CursoD5.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD5\CursoD5\bin\Debug\CursoD5.pdb
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD5\CursoD5\obj\Debug\CursoD5.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD5\CursoD5\obj\Debug\CursoD5.pdb

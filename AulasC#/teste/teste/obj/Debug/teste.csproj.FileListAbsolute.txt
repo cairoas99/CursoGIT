@@ -1,0 +1,7 @@
+C:\Users\cairo\Desktop\CURSO SMN C#\teste\teste\bin\Debug\teste.exe.config
+C:\Users\cairo\Desktop\CURSO SMN C#\teste\teste\bin\Debug\teste.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\teste\teste\bin\Debug\teste.pdb
+C:\Users\cairo\Desktop\CURSO SMN C#\teste\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\teste\teste\obj\Debug\teste.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\teste\teste\obj\Debug\teste.pdb

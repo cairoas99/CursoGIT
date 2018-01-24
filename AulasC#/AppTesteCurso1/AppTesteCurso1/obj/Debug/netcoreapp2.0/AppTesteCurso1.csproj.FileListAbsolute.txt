@@ -1,0 +1,11 @@
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\obj\Debug\netcoreapp2.0\AppTesteCurso1.csprojResolveAssemblyReference.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\obj\Debug\netcoreapp2.0\AppTesteCurso1.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\obj\Debug\netcoreapp2.0\AppTesteCurso1.AssemblyInfoInputs.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\obj\Debug\netcoreapp2.0\AppTesteCurso1.AssemblyInfo.cs
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\bin\Debug\netcoreapp2.0\AppTesteCurso1.deps.json
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\bin\Debug\netcoreapp2.0\AppTesteCurso1.runtimeconfig.json
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\bin\Debug\netcoreapp2.0\AppTesteCurso1.runtimeconfig.dev.json
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\bin\Debug\netcoreapp2.0\AppTesteCurso1.dll
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\bin\Debug\netcoreapp2.0\AppTesteCurso1.pdb
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\obj\Debug\netcoreapp2.0\AppTesteCurso1.dll
+C:\Users\cairo\Desktop\CURSO SMN C#\AppTesteCurso1\AppTesteCurso1\obj\Debug\netcoreapp2.0\AppTesteCurso1.pdb

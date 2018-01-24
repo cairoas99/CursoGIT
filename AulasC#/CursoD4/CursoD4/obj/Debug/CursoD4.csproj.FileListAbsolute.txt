@@ -1,0 +1,7 @@
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD4\CursoD4\obj\Debug\CursoD4.csprojResolveAssemblyReference.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD4\CursoD4\obj\Debug\CursoD4.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD4\CursoD4\bin\Debug\CursoD4.exe.config
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD4\CursoD4\bin\Debug\CursoD4.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD4\CursoD4\bin\Debug\CursoD4.pdb
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD4\CursoD4\obj\Debug\CursoD4.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD4\CursoD4\obj\Debug\CursoD4.pdb

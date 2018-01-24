@@ -1,0 +1,7 @@
+C:\Users\cairo\Desktop\CURSO SMN C#\FormaExer\FormaExer\bin\Debug\FormaExer.exe.config
+C:\Users\cairo\Desktop\CURSO SMN C#\FormaExer\FormaExer\bin\Debug\FormaExer.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\FormaExer\FormaExer\bin\Debug\FormaExer.pdb
+C:\Users\cairo\Desktop\CURSO SMN C#\FormaExer\FormaExer\obj\Debug\FormaExer.csprojResolveAssemblyReference.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\FormaExer\FormaExer\obj\Debug\FormaExer.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\FormaExer\FormaExer\obj\Debug\FormaExer.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\FormaExer\FormaExer\obj\Debug\FormaExer.pdb

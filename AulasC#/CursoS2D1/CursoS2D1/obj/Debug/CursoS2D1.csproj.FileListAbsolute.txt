@@ -1,0 +1,7 @@
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D1\CursoS2D1\bin\Debug\CursoS2D1.exe.config
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D1\CursoS2D1\bin\Debug\CursoS2D1.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D1\CursoS2D1\bin\Debug\CursoS2D1.pdb
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D1\CursoS2D1\obj\Debug\CursoS2D1.csprojResolveAssemblyReference.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D1\CursoS2D1\obj\Debug\CursoS2D1.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D1\CursoS2D1\obj\Debug\CursoS2D1.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D1\CursoS2D1\obj\Debug\CursoS2D1.pdb

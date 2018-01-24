@@ -1,0 +1,11 @@
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\bin\Debug\netcoreapp2.0\CursoD2.deps.json
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\bin\Debug\netcoreapp2.0\CursoD2.runtimeconfig.json
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\bin\Debug\netcoreapp2.0\CursoD2.runtimeconfig.dev.json
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\bin\Debug\netcoreapp2.0\CursoD2.dll
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\bin\Debug\netcoreapp2.0\CursoD2.pdb
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\obj\Debug\netcoreapp2.0\CursoD2.csprojResolveAssemblyReference.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\obj\Debug\netcoreapp2.0\CursoD2.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\obj\Debug\netcoreapp2.0\CursoD2.AssemblyInfoInputs.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\obj\Debug\netcoreapp2.0\CursoD2.AssemblyInfo.cs
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\obj\Debug\netcoreapp2.0\CursoD2.dll
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoD2\CursoD2\obj\Debug\netcoreapp2.0\CursoD2.pdb

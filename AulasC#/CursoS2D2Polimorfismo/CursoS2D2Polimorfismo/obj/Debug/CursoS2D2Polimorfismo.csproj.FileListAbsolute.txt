@@ -1,0 +1,7 @@
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D2Polimorfismo\CursoS2D2Polimorfismo\bin\Debug\CursoS2D2Polimorfismo.exe.config
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D2Polimorfismo\CursoS2D2Polimorfismo\bin\Debug\CursoS2D2Polimorfismo.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D2Polimorfismo\CursoS2D2Polimorfismo\bin\Debug\CursoS2D2Polimorfismo.pdb
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D2Polimorfismo\CursoS2D2Polimorfismo\obj\Debug\CursoS2D2Polimorfismo.csprojResolveAssemblyReference.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D2Polimorfismo\CursoS2D2Polimorfismo\obj\Debug\CursoS2D2Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D2Polimorfismo\CursoS2D2Polimorfismo\obj\Debug\CursoS2D2Polimorfismo.exe
+C:\Users\cairo\Desktop\CURSO SMN C#\CursoS2D2Polimorfismo\CursoS2D2Polimorfismo\obj\Debug\CursoS2D2Polimorfismo.pdb
